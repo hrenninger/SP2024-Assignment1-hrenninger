@@ -1,0 +1,13 @@
+﻿#CoverArt{
+    border-radius: 90%;
+    height: 100px;
+}
+
+#Content{
+    text-align:center;
+}
+#Actors {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
